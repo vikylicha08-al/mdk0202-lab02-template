@@ -20,7 +20,7 @@
 
 <img width="871" height="779" alt="изображение" src="https://github.com/user-attachments/assets/53b62399-37c0-4b86-9693-5d34a680562d" />
 
-6. Создайте ветку в своем репозитории
+6. Создайте ветку в своем репозитории, желательно называя ее своим ФИО
 
 7. Результаты выполнения, логи и скриншоты занесите в файл отчета `report.md`. Пример заполнения данных на скриншоте ниже:
 
@@ -32,4 +32,7 @@
 <img width="868" height="878" alt="изображение" src="https://github.com/user-attachments/assets/33d6258b-b9ee-4286-815a-d435075f8c75" />
 
 
-8. Сделайте pull request своей ветки.
+8. Сделайте pull request своей ветки и проведите настойки, как на скрине. (в assignees выбирайте yourself или ищите себя руками)
+
+<img width="1306" height="915" alt="изображение" src="https://github.com/user-attachments/assets/09033070-eff3-4630-b5d9-21e7957c3c68" />
+
