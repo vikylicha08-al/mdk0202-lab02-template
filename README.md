@@ -36,3 +36,4 @@
 
 <img width="1306" height="915" alt="изображение" src="https://github.com/user-attachments/assets/09033070-eff3-4630-b5d9-21e7957c3c68" />
 
+После этого ждите. Вы можете отслеживать свои успехи в статусе Project'а, Pull Request'a: ToDo, InProgress, Done.
