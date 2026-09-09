@@ -31,4 +31,5 @@
 
 <img width="868" height="878" alt="изображение" src="https://github.com/user-attachments/assets/33d6258b-b9ee-4286-815a-d435075f8c75" />
 
+
 8. Сделайте pull request своей ветки.
